@@ -21,6 +21,10 @@ GPIO: SCL 22, SDA21 - 2pins: OLED
 
 
 Others:
+
 GPIO: 27 - 1pin: Float Switch
+
 GPIO: 32 - 1pin: Relay: DC Motor
+
 GPIO: 33 - 1pin: Relay: DC Motor // Unnecessary
+
